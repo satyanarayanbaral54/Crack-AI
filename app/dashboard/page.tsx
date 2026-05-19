@@ -124,7 +124,7 @@ export default function DashboardPage() {
           exam: examName,
           selected_at: new Date().toISOString(),
         },
-        { onConflict: "user_id" },
+        { onConflict: "user_id" }
       );
 
     if (saveError) {
