@@ -1,0 +1,63 @@
+
+> supabase-auth-next@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3000
+   - Network:      http://127.0.0.1:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.6s
+ ○ Compiling /login ...
+ ✓ Compiled /login in 1588ms (680 modules)
+ GET /login 200 in 2967ms
+ ○ Compiling /signup ...
+ ✓ Compiled /signup in 657ms (687 modules)
+ GET /signup 200 in 1158ms
+ ○ Compiling /ai-doubt ...
+ ✓ Compiled /ai-doubt in 538ms (731 modules)
+ GET /ai-doubt?exam=JEE 200 in 945ms
+ ✓ Compiled in 1801ms (307 modules)
+ ✓ Compiled in 283ms (307 modules)
+ ✓ Compiled in 364ms (307 modules)
+ ✓ Compiled in 214ms (307 modules)
+ ✓ Compiled /login in 193ms (409 modules)
+ GET /login 200 in 796ms
+ ✓ Compiled /signup in 125ms (414 modules)
+ GET /signup 200 in 562ms
+ ✓ Compiled /ai-doubt in 182ms (438 modules)
+ GET /ai-doubt?exam=JEE 200 in 683ms
+ GET /login 200 in 116ms
+ GET /login 200 in 84ms
+ GET /login 200 in 73ms
+ GET /signup 200 in 136ms
+ GET /ai-doubt?exam=JEE 200 in 89ms
+ GET /login 200 in 180ms
+ GET /ai-doubt?exam=JEE 200 in 230ms
+ GET /login 200 in 72ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 675ms (709 modules)
+ GET /dashboard 200 in 1226ms
+ ○ Compiling /study ...
+ ✓ Compiled /study in 1259ms (730 modules)
+ GET /study?exam=JEE 200 in 2329ms
+ ○ Compiling /syllabus ...
+ ✓ Compiled /syllabus in 1056ms (737 modules)
+ GET /syllabus?exam=JEE 200 in 1879ms
+ ○ Compiling /growth ...
+ ✓ Compiled /growth in 939ms (744 modules)
+ GET /growth?exam=JEE 200 in 1677ms
+ ○ Compiling /profile ...
+ ✓ Compiled /profile in 963ms (751 modules)
+ GET /profile?exam=JEE 200 in 1447ms
+ GET /login 200 in 153ms
+ GET /dashboard 200 in 117ms
+ GET /study?exam=JEE 200 in 91ms
+ GET /syllabus?exam=JEE 200 in 119ms
+ GET /growth?exam=JEE 200 in 93ms
+ GET /profile?exam=JEE 200 in 83ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1078ms (755 modules)
+ GET / 200 in 1804ms
+ GET / 200 in 102ms
